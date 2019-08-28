@@ -1,0 +1,11 @@
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/bin/Debug/netcoreapp2.2/chat-application-in-c-sharp.deps.json
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/bin/Debug/netcoreapp2.2/chat-application-in-c-sharp.runtimeconfig.json
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/bin/Debug/netcoreapp2.2/chat-application-in-c-sharp.runtimeconfig.dev.json
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/bin/Debug/netcoreapp2.2/chat-application-in-c-sharp.dll
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/bin/Debug/netcoreapp2.2/chat-application-in-c-sharp.pdb
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/obj/Debug/netcoreapp2.2/chat-application-in-c-sharp.csprojAssemblyReference.cache
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/obj/Debug/netcoreapp2.2/chat-application-in-c-sharp.csproj.CoreCompileInputs.cache
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/obj/Debug/netcoreapp2.2/chat-application-in-c-sharp.AssemblyInfoInputs.cache
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/obj/Debug/netcoreapp2.2/chat-application-in-c-sharp.AssemblyInfo.cs
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/obj/Debug/netcoreapp2.2/chat-application-in-c-sharp.dll
+/Users/campnauber/Desktop/Code/chat-application-in-c-sharp/obj/Debug/netcoreapp2.2/chat-application-in-c-sharp.pdb
